@@ -1,0 +1,7 @@
+说明：
+before_z_score_distribution_v2.pdf
+
+Choose 50 bins, then draw the data distribution histogram of four features, 
+
+
+after_z_score_distribution_v2.pdf
