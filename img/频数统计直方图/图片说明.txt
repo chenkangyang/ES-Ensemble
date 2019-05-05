@@ -1,7 +1,9 @@
 说明：
 before_z_score_distribution_v2.pdf
-
-Choose 50 bins, then draw the data distribution histogram of four features, 
-
+直方图，绘制的是每个区间内出现的样本的频数。
+Choose 50 bins (就是有多少根竖条条, 竖条的宽度 binwidth, 由数据的最大值，最小值各分箱数量共同决定), then draw the data distribution histogram of four features. 
+纵坐标：样本出现频率
 
 after_z_score_distribution_v2.pdf
+
+After Z score standardize, the distribution of all features becomes a normal distribution with an average value of 0 and a variance of 1. 

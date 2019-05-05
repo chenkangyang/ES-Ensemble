@@ -5,6 +5,7 @@
 /paper
 /res
 .idea/
+*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
