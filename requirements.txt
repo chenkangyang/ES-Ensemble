@@ -65,7 +65,7 @@ simplegeneric==0.8.1
 simplejson==3.16.0
 six==1.10.0
 tensorboard==1.12.2
-tensorflow==2.5.0
+tensorflow==2.7.2
 termcolor==1.1.0
 terminado==0.6
 testpath==0.3
