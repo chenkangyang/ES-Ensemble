@@ -41,7 +41,7 @@ nbformat==4.4.0
 nbpresent==3.0.2
 nltk==3.4.5
 notebook==6.1.5
-numpy==1.15.2
+numpy==1.22.0
 pandas==0.22.0
 pandocfilters==1.4.2
 pexpect==4.2.1
